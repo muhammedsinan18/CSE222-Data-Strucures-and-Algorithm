@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Utilities","l":"BreadthFirstSearch"},{"p":"Utilities","l":"DeepFirstSearch"},{"p":"Utilities","l":"Dijkstra"},{"p":"MyGraph","l":"DynamicGraph"},{"p":"MyGraph","l":"Edge"},{"p":"MyGraph","l":"Graph"},{"p":"<Unnamed>","l":"Main"},{"p":"MyGraph","l":"MyGraph"},{"p":"MyGraph","l":"Vertex"}]
